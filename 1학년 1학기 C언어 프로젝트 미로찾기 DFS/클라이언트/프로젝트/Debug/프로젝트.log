@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\project\클라이언트\프로젝트\main.cpp(8): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\project\클라이언트\프로젝트\cursor.h(6): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\project\클라이언트\프로젝트\main.cpp(9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\project\클라이언트\프로젝트\map.h(7): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\project\클라이언트\프로젝트\map.h(36): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+c:\project\클라이언트\프로젝트\dfs.h(3): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  프로젝트.vcxproj -> C:\project\클라이언트\Debug\프로젝트.exe
